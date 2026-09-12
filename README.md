@@ -2,6 +2,8 @@
 
 POTify is a fast, lightweight Windows desktop utility for batch resizing and converting photos and general images. It provides a clean, responsive graphical interface alongside optional Power-of-Two (POT) dimension rounding for game assets and textures.
 
+![POTify application interface](docs/potify-ui.png)
+
 ## Downloads
 
 Download the latest standalone portable release (Windows x64):
@@ -61,7 +63,3 @@ To compile the standalone portable binary with PyInstaller:
 ```
 
 The output binary and zip bundle will be generated in `release\`.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
