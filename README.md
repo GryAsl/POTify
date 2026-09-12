@@ -2,7 +2,9 @@
 
 POTify is a fast, lightweight Windows desktop utility for batch resizing and converting photos and general images. It provides a clean, responsive graphical interface alongside optional Power-of-Two (POT) dimension rounding for game assets and textures.
 
-![POTify application interface](docs/potify-ui.png)
+<a href="docs/potify-ui.png">
+  <img src="docs/potify-ui@2x.png" alt="POTify application interface" width="1404" height="1034">
+</a>
 
 ## Downloads
 
